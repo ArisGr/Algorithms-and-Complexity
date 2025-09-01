@@ -2,7 +2,7 @@
 
 This repository contains solutions to programming assignments from the university course **Algorithms and Complexity** of ECE NTUA.  
 Each lab focuses on different algorithmic problems, requiring efficient design and implementation.  
-A brief explanation of each exercise follows:
+
 ---
 
 ## Lab 1
